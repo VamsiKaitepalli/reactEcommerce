@@ -48,7 +48,7 @@ for(i=1; i<51; i++) {
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App">
       <h1>Ecommerce</h1>
       <br/>
       <div>
